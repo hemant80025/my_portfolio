@@ -1,5 +1,11 @@
-# my_portfolio
-<img width="1426" alt="Screenshot 2024-06-24 at 9 33 56 PM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/9d2d322c-aaed-4c6b-b58d-c4614e621bcc">
+# my_portfolio  
+Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.    
+<img width="600" alt="Screenshot 2024-06-24 at 9 33 56 PM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/9d2d322c-aaed-4c6b-b58d-c4614e621bcc">  
+<img width="600" alt="Screenshot 2024-06-25 at 12 51 40 AM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/9396d9be-4ddf-44f0-a5ad-3b38fc6c2276">  
+<img width="600" alt="Screenshot 2024-06-25 at 12 52 19 AM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/d2080f4c-9fa1-4ebd-abe6-60ab92070c89">  
+<img width="600" alt="Screenshot 2024-06-25 at 12 54 29 AM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/8bbe46e0-2bc2-45b3-978e-ea6b1cf39f44">  
+<img width="600" alt="Screenshot 2024-06-25 at 12 55 01 AM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/894baa9b-2952-4a90-98b4-6148d3b057ec">  
+<img width="600" alt="Screenshot 2024-06-25 at 12 55 20 AM" src="https://github.com/hemant80025/my_portfolio/assets/143216259/5385c8c7-73c2-45bc-b733-1872af3f01c1">  
 
 ## Table of Contents
 - [Introduction](#introduction)
